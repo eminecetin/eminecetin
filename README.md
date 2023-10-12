@@ -1,6 +1,6 @@
  [![MasterHead](https://www.avansas.com/blog/wp-content/uploads/2017/10/yapay-zeka.jpg)
 <h1 align="center">Hi 👋, I'm Emine</h1>
-<h3 align="center">I develop myself on java and python</h3>
+<h3 align="center">A software developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **Java and Python**
 
@@ -14,7 +14,7 @@
 <a href="https://fb.com/emine çetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emine çetin" height="30" width="40" /></a>
 <a href="https://instagram.com/eminecetiny_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eminecetiny_" height="30" width="40" /></a>
 <a href="https://medium.com/@eminecetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eminecetin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/emine çetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emine çetin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/eminecetin3573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eminecetin3573" height="30" width="40" /></a>
 <a href="https://discord.gg/eminecetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eminecetin" height="30" width="40" /></a>
 </p>
 
