@@ -1,6 +1,6 @@
 
 
- [![MasterHead](https://www.google.com.tr/imgres?imgurl=http%3A%2F%2Fnpistanbul.com%2Fassets%2Fuploads%2Fsaglikrehberi%2Fimages%2Fyapay-zek%25C3%25A2-insan-irkinin-son-basarisi-olabilir.jpg&tbnid=2I_ttco6uf5H_M&vet=12ahUKEwiE39rWv_GBAxWG2gIHHXRLB44QMygjegUIARCgAQ..i&imgrefurl=https%3A%2F%2Fnpistanbul.com%2Fyapay-zeka-insan-irkinin-son-basarisi-olabilir&docid=FWMSbpBaIT-3aM&w=850&h=327&q=yapayzeka&hl=tr&ved=2ahUKEwiE39rWv_GBAxWG2gIHHXRLB44QMygjegUIARCgAQ)
+ [![MasterHead]https://www.google.com.tr/imgres?imgurl=http%3A%2F%2Fnpistanbul.com%2Fassets%2Fuploads%2Fsaglikrehberi%2Fimages%2Fyapay-zek%25C3%25A2-insan-irkinin-son-basarisi-olabilir.jpg&tbnid=2I_ttco6uf5H_M&vet=12ahUKEwiE39rWv_GBAxWG2gIHHXRLB44QMygjegUIARCgAQ..i&imgrefurl=https%3A%2F%2Fnpistanbul.com%2Fyapay-zeka-insan-irkinin-son-basarisi-olabilir&docid=FWMSbpBaIT-3aM&w=850&h=327&q=yapayzeka&hl=tr&ved=2ahUKEwiE39rWv_GBAxWG2gIHHXRLB44QMygjegUIARCgAQ
 <h1 align="center">Hi 👋, I'm Emine</h1>
 <h3 align="center">I develop myself on java and python</h3>
 
