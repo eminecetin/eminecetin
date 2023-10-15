@@ -1,8 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Emine</h1>
-<h3 align="center">I'm a student in Izmir Bakırçay University Computer Engineering Department</h3>
+- I'm a student in Izmir Bakırçay University Computer Engineering Department **.**
 
 - 🔭 I’m currently working on **python and java**
+
+- 🎓 Going to graduate at 2024 June **.**
+
+- 💻 I love coding and learning more about it 💖 **.**
 
 - 📫 How to reach me **eminecetinn970@gmail.com**
 
