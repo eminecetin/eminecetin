@@ -1,8 +1,8 @@
- [![MasterHead](https://www.avansas.com/blog/wp-content/uploads/2017/10/yapay-zeka.jpg)
- <h1 align="center">Hi 👋, I'm Emine</h1>
-<h3 align="center">A software developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Java and Python**
+<h1 align="center">Hi 👋, I'm Emine</h1>
+<h3 align="center">I'm a student in Izmir Bakırçay University Computer Engineering Department</h3>
+
+- 🔭 I’m currently working on **python and java**
 
 - 📫 How to reach me **eminecetinn970@gmail.com**
 
