@@ -1,5 +1,5 @@
  [![MasterHead](https://www.avansas.com/blog/wp-content/uploads/2017/10/yapay-zeka.jpg)
-<h1 align="center">Hi 👋, I'm Emine</h1>
+ <h1 align="center">Hi 👋, I'm Emine</h1>
 <h3 align="center">A software developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **Java and Python**
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emine çetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emine çetin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eminecetin-382238201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eminecetin-382238201" height="30" width="40" /></a>
 <a href="https://kaggle.com/emine çetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emine çetin" height="30" width="40" /></a>
 <a href="https://medium.com/@eminecetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eminecetin" height="30" width="40" /></a>
 </p>
